@@ -14,7 +14,7 @@
 - Advanced Multimedia Systems
   Developing protocols and solotions to stream 360 degree captured videos and AR/VR data to urbana champaign campus.
 
-Research Assistance  @Amirkabir University of Technology  (_Jan 2018 - June 202)**
+**Research Assistance  @Amirkabir University of Technology  (_Jan 2018 - June 202)**
 - Building blockchain based solution for software defined networks
   
 **Research on 5G and AETHER @ Umass Amherst(_June 2022 )**
