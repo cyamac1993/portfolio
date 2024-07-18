@@ -11,11 +11,15 @@
 **Research Assistance  @ Umass Amherst (_Jan 2021 - Present_)**
 - MIVIRTUALSEAT: SEMANTICS-AWARE CONTENT DISTRIBUTION FOR IMMERSIVE MEETING ENVIRONMENTS
   [MIVIRTUALSEAT](https://monet.cs.illinois.edu/mivirtualseat/)
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+- Advanced Multimedia Systems
+  Developing protocols and solotions to stream 360 degree captured videos and AR/VR data to urbana champaign campus.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+Research Assistance  @Amirkabir University of Technology  (_Jan 2018 - June 202)**
+- Building blockchain based solution for software defined networks
+  
+**Research on 5G and AETHER @ Umass Amherst(_June 2022 )**
+- Studying 5G and AETHER with with Prof. Jim Kurose (https://www-net.cs.umass.edu/personnel/kurose.html) and Prof.Michael; Zink (https://www.cics.umass.edu/faculty/directory/zink_michael)
+
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
