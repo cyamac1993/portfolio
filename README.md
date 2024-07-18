@@ -3,9 +3,9 @@
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
+- Ph.D., Computer Engineering | University of Massachusetts Amherst (January 2021_May 2026_)								       		
 - M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- B.S., Computer science | The University of Texas at Dallas (_May 2017_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
