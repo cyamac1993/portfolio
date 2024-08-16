@@ -56,4 +56,4 @@ computer science and electrical engineering (December ’2015) https://doi.org/1
 2.Developing an Optimal 360-degree Video Streaming Using Multicasting for a Better QoE: Submitted/Under review
 
 
-- [Data Science Blog](https://medium.com/@shawhin)
+
