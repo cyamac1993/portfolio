@@ -37,7 +37,10 @@ precision compared to previous works.
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
 ### SuperResolution-based Edge Assisted 360-Video Streaming System
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+[Publication]([https://www.mdpi.com/1424-8220/22/11/4240](https://ieeexplore.ieee.org/abstract/document/9666114))
+We explore a new three-tier architecture to
+handle the streaming of 360 videos to help reduce the bandwidth capacity on the core network of these cloud providers. (fall
+’2021)
 
 handle the streaming of 360 videos to help reduce the bandwidth capacity on the core network of these cloud providers.
 ![Bike Study](/assets/img/bike_study.jpeg)
