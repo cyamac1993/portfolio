@@ -24,6 +24,10 @@
 ## Projects
 ### Object Detection and Tracking in 360 Degree Videos
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+We proposed a new method to detect and track object in the
+360-degree videos. For this matter, we created our own 360- degree video dataset, and by leveraging of ROI technique and
+selecting a correct area of the image and then project it in 2D image we gain computational frugality as well as a better
+precision compared to previous works. (fall ’2020)
 
 360-degree videos. For this matter, we created our own 360- degree video dataset, and by leveraging of ROI technique and
 selecting a correct area of the image and then project it in 2D image we gain computational frugality as well as a better
