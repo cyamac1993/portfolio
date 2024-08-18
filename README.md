@@ -1,4 +1,4 @@
-# Data Scientist
+# Data ScientistS
 
 #### Technical Skills: Python,Pytorch, Blockchain, AR/VR, Unity, SQL, AWS, Snowflake, MATLAB,
 
