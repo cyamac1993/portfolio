@@ -58,6 +58,6 @@ computer science and electrical engineering (December ’2015) https://doi.org/1
 2. Developing an Optimal 360-degree Video Streaming Using Multicasting for a Better QoE: Submitted/Under review
 
 ## CV
-You can download my CV [here](CV_updated.pdf).
+You can download my CV [here](cv.pdf).
 
 
