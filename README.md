@@ -20,8 +20,7 @@
   [Dr. Siavash Khorsandi](https://aut.ac.ir/cv/2261/SIAVASH%20KHORSANDI) (MSc Theses section)
 
 **Research on 5G and AETHER @ Umass Amherst(_June 2022 )**
-- Studying 5G and AETHER with with [Prof. Jim Kurose](https://www-net.cs.umass.edu/personnel/kurose.html) and Prof. Michael Zink  
-  [Prof. Michael Zink](https://www.cics.umass.edu/faculty/directory/zink_michael)
+- Studying 5G and AETHER with with [Prof. Jim Kurose](https://www-net.cs.umass.edu/personnel/kurose.html) and  [Prof. Michael Zink](https://www.cics.umass.edu/faculty/directory/zink_michael)
 ## Projects
 ### Object Detection and Tracking in 360 Degree Videos
 
@@ -37,10 +36,10 @@ selecting a correct area of the image and then project it in 2D image we gain co
 precision compared to previous works.
 
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+
 
 ### SuperResolution-based Edge Assisted 360-Video Streaming System
-[Publication]([https://www.mdpi.com/1424-8220/22/11/4240](https://ieeexplore.ieee.org/abstract/document/9666114))
+[Publication](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ZhWUHVcAAAAJ&citation_for_view=ZhWUHVcAAAAJ:u5HHmVD_uO8C) 
 We explore a new three-tier architecture to
 handle the streaming of 360 videos to help reduce the bandwidth capacity on the core network of these cloud providers. (fall
 ’2021)
