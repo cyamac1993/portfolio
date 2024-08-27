@@ -1,4 +1,4 @@
-# Computer Scientist
+# Computer scientist
 
 I am a Computer Engineer/Scientist at the University of Massachusetts Amherst, with a focus on advanced multimedia systems, immersive technologies, and distributed systems. My research spans various domains, including 360-degree video streaming, AR/VR content distribution, and blockchain applications for networking. With a strong foundation in both theory and practical implementations, I am passionate about pushing the boundaries of technology to solve complex real-world problems.
 
