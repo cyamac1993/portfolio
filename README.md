@@ -5,10 +5,10 @@
 ## Education
 - Ph.D., Computer Engineering | University of Massachusetts Amherst ( _May 2026_)								       		
 - M.S.,  Computer Engineering	| Amirkabir University of Technology (_June 2020_)	 			        		
-- B.S., Computer science | The University of Texas at Dallas (_June 2017_)
+- B.S., Computer science |  University of Tabriz (_June 2017_)
 
 ## Work Experience
-**Research Assistance  @ Umass Amherst (_Jan 2021 - Present_)**
+**Research Assistance  @ Umass Amherst (_Feb 2022 - Present_)**
 - MIVIRTUALSEAT: SEMANTICS-AWARE CONTENT DISTRIBUTION FOR IMMERSIVE MEETING ENVIRONMENTS
   [MIVIRTUALSEAT](https://monet.cs.illinois.edu/mivirtualseat/)
 - Advanced Multimedia Systems
@@ -16,18 +16,21 @@
 
 **Research Assistance  @Amirkabir University of Technology  (_Jan 2018 - June 202)**
 - Building blockchain based solution for software defined networks
-  
+- Thesis : scalable blockchain-based method for improving accountability in software defined network under Dr Siavash Khorsandi supervision.
+  [Dr. Siavash Khorsandi](https://aut.ac.ir/cv/2261/SIAVASH%20KHORSANDI) (MSc Theses section)
+
 **Research on 5G and AETHER @ Umass Amherst(_June 2022 )**
-- Studying 5G and AETHER with with Prof. Jim Kurose (https://www-net.cs.umass.edu/personnel/kurose.html) and Prof.Michael; Zink (https://www.cics.umass.edu/faculty/directory/zink_michael)
-
-
+- Studying 5G and AETHER with with [Prof. Jim Kurose](https://www-net.cs.umass.edu/personnel/kurose.html) and Prof. Michael Zink  
+  [Prof. Michael Zink](https://www.cics.umass.edu/faculty/directory/zink_michael)
 ## Projects
 ### Object Detection and Tracking in 360 Degree Videos
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+
 We proposed a new method to detect and track object in the
 360-degree videos. For this matter, we created our own 360- degree video dataset, and by leveraging of ROI technique and
 selecting a correct area of the image and then project it in 2D image we gain computational frugality as well as a better
 precision compared to previous works. (fall ’2020)
+For this project I used a pre-recorded 360 videos of a basketball game and made my own dataset.
+
 
 360-degree videos. For this matter, we created our own 360- degree video dataset, and by leveraging of ROI technique and
 selecting a correct area of the image and then project it in 2D image we gain computational frugality as well as a better
@@ -53,7 +56,7 @@ handle the streaming of 360 videos to help reduce the bandwidth capacity on the 
 ## Publications
 1. Gaussian Three-Dimensional kernel SVM for Edge Detection Applications: published in international conference in
 computer science and electrical engineering (December ’2015) https://doi.org/10.48550/arXiv.1710.01260
-2.Developing an Optimal 360-degree Video Streaming Using Multicasting for a Better QoE: Submitted/Under review
+2. Developing an Optimal 360-degree Video Streaming Using Multicasting for a Better QoE: Submitted/Under review
 
 
 
