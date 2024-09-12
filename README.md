@@ -1,4 +1,3 @@
-![Profile Picture](/profilepic.jpeg)
 
 # Computer scientist
 
