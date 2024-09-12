@@ -66,6 +66,10 @@ handle the streaming of 360 videos to help reduce the bandwidth capacity on the 
 computer science and electrical engineering (December ’2015) https://doi.org/10.48550/arXiv.1710.01260
 2. Developing an Optimal 360-degree Video Streaming Using Multicasting for a Better QoE: Submitted/Under review
 
+## Location
+
+I currently live in Amherst, Massachusetts
+
 ## CV
 You can download my CV [here](cv.pdf).
 
