@@ -13,7 +13,7 @@ Feel free to explore my work, research, and projects below, and do not hesitate 
 #### Technical Skills: Python,Pytorch, Blockchain, AR/VR, Unity, SQL, AWS, Snowflake, MATLAB,
 
 ## Education
-- Ph.D., Computer Engineering | University of Massachusetts Amherst ( _May 2026_)								       		
+- M.S., Computer Engineering | University of Massachusetts Amherst ( _May 2025_)								       		
 - M.S.,  Computer Engineering	| Amirkabir University of Technology (_June 2020_)	 			        		
 - B.S., Computer science |  University of Tabriz (_June 2017_)
 
