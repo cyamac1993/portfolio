@@ -57,6 +57,9 @@ handle the streaming of 360 videos to help reduce the bandwidth capacity on the 
 handle the streaming of 360 videos to help reduce the bandwidth capacity on the core network of these cloud providers.
 ![Bike Study](/assets/img/bike_study.jpeg)
 
+### Reseource allocation in a VR streaming system when we use multicast grouping for a better QoE
+Formulating an optimization problem for resource allocation and exploring the solution using A3C deep reinforcement learning.
+
 ## Talks & Lectures
 - Presentation: international conference in computer science and electrical engineering, 2015
 - Guest Lecture: Advanced LTE topics - AMirkabir University of technology, Spring 2019
