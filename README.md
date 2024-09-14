@@ -75,6 +75,6 @@ computer science and electrical engineering (December ’2015) https://doi.org/1
 I currently live in Amherst, Massachusetts
 
 ## CV
-You can download my CV [here](cv.pdf).
+You can download my CV [here](CV_Apply.pdf).
 
 
