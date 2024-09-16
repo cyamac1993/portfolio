@@ -24,7 +24,7 @@ Feel free to explore my work, research, and projects below, and do not hesitate 
 - Advanced Multimedia Systems
   Developing protocols and solotions to stream 360 degree captured videos and AR/VR data to urbana champaign campus.
 
-**Research Assistance  @Amirkabir University of Technology  (_Jan 2018 - June 202)**
+**Research Assistance  @Amirkabir University of Technology  (_Jan 2018 - June 2020)**
 - Building blockchain based solution for software defined networks
 - Thesis : scalable blockchain-based method for improving accountability in software defined network under Dr Siavash Khorsandi supervision.
   [Dr. Siavash Khorsandi](https://aut.ac.ir/cv/2261/SIAVASH%20KHORSANDI) (MSc Theses section)
@@ -32,6 +32,17 @@ Feel free to explore my work, research, and projects below, and do not hesitate 
 **Research on 5G and AETHER @ Umass Amherst(_June 2022 )**
 - Studying 5G and AETHER with with [Prof. Jim Kurose](https://www-net.cs.umass.edu/personnel/kurose.html) and  [Prof. Michael Zink](https://www.cics.umass.edu/faculty/directory/zink_michael)
 ## Projects
+
+### Developing an optimal 360-degree video streaming using multicasting for a better QoE
+we propose a novel multicast-based approach to optimize
+the transmission of 360-degree video. By leveraging tiling techniques, our
+system divides video into segments corresponding to a user’s Field of View
+(FoV). Only the relevant FoV tiles are streamed at the highest quality, while
+other areas are transmitted at lower resolutions, reducing unnecessary band-
+width consumption. Additionally, our multicast strategy groups users with
+similar viewing patterns to share common video tiles, further improving
+bandwidth efficiency without compromising the Quality of Experience (QoE). (fall
+’2024)
 ### Object Detection and Tracking in 360 Degree Videos
 
 We proposed a new method to detect and track object in the
